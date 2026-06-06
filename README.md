@@ -15,6 +15,7 @@ Creación y configuración de la base de datos
 Definición de tablas con estructura optimizada
 Inserción de datos de muestra (películas icónicas)
 Ejecución de consultas básicas y avanzadas
+
 🗄️ Estructura de la Base de Datos
 Tabla: peliculas
 Columna	Tipo	Descripción
@@ -35,6 +36,7 @@ fecha_agregada	DATE	Fecha de inserción en el catálogo
 El script contiene 11 consultas básicas más 3 retos, entre las que destacan:
 
 Consultas Básicas
+
 Consulta	Descripción
 Q1	Listado simple de título, director y año
 Q2	Filtrado de películas destacadas
